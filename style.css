@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url("images/Image.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;  
+}
